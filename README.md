@@ -101,7 +101,7 @@ Simulation results are saved as pickle files in the `results/` directory with fi
 If you use this code in your research, please cite:
 ```bibtex
 @article{teixeira2023modelling,
-  title={Modelling White Worms as Defenses for Networked Systems in IoT Security},
+  title={Dynamics of Defensive and Malicious Worm Co-Propagation across Networked Systems},
   author={Teixeira, Andreia Sofia and Echegoyen, Ignacio and Shanaz, Rasha and Aleta, Alberto},
   journal={...},
   year={2025}
