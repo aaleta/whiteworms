@@ -2,9 +2,9 @@
 
 This repository contains the code for reproducing the analyses presented in:
 
-**"Modelling White Worms as Defenses for Networked Systems in IoT Security"**  
+**"Dynamics of defensive and malicious worm co-propagation across networked systems"**  
 *Andreia Sofia Teixeira, Ignacio Echegoyen, Rasha Shanaz, and Alberto Aleta*  
-arXiv: ...
+Chaos, Solitons & Fractls: [Dynamics of defensive and malicious worm co-propagation across networked systems](Link).
 
 This work investigates the spreading dynamics of two competing worms—a malicious black worm and a benign white worm—on networked IoT devices using different network topologies (Erdős-Rényi, Scale-Free, Complete Graph, and Stochastic Block Model).
 
